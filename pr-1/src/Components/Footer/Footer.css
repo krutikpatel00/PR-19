@@ -1,0 +1,114 @@
+.footer {
+  background-color: #f0f0f0;
+  margin-top: 100px;
+}
+.footer-offers {
+  background-color: black;
+  padding: 60px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -104px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+.footer-offers h2 {
+  font-size: 40px;
+  font-weight: 800;
+  color: white;
+}
+.footer-offers-form input {
+  width: 100%;
+  padding: 13px 0 13px 35px;
+  border-radius: 50px;
+  border: none;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  outline: none;
+  font-size: 14px;
+  -o-border-radius: 50px;
+}
+.footer-offers-form input::placeholder {
+  color: #dcdcdc;
+}
+.input-email {
+  position: relative;
+}
+.footer-offers-form button {
+  padding: 13px 0;
+  background-color: white;
+  margin-top: 15px;
+  width: 100%;
+  font-weight: 600;
+  border: none;
+  text-align: center;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+.footer-offers-form .mdoutlinemail {
+  position: absolute;
+  top: 50%;
+  color: #dcdcdc;
+  font-size: 16px;
+  left: 15px;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+}
+
+/*  */
+
+.footer-inner {
+  padding: 180px 0 80px 0;
+}
+.footer-items {
+  margin: 0 10px;
+}
+.footer-items img {
+  width: 160px !important;
+}
+.footer-inner .footer-items p {
+  padding: 20px 0;
+}
+
+.footer-inner .footer-items .footer-icon a {
+  width: 40px;
+  height: 40px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 18px;
+  margin: 0 5px;
+  border-radius: 50px;
+  border: 1px solid #dcdcdc;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+
+.footer-inner .footer-items h4 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.footer-inner .footer-items ul li a {
+  color: #606060;
+  margin: 10px 0;
+}
+
+.copyright {
+  padding: 20px 0;
+  border-top: 1px solid #dcdcdc;
+}

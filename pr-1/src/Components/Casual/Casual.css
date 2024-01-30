@@ -1,0 +1,118 @@
+.casual {
+  padding: 80px 0;
+}
+.casual-fillter {
+  padding: 20px;
+  border: 1px solid #dcdcdc;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.casual-fillter .filters {
+  padding: 0 0 20px 0;
+  border-bottom: 1px solid #dcdcdc;
+}
+.casual-fillter .filters h2,
+.casual-fillter .price h2,
+.casual-fillter .colors h2,
+.casual-fillter .size h2 {
+  font-size: 20px;
+}
+.casual-fillter .filters .vscsettings {
+  font-size: 18px;
+}
+.casual-fillter .product {
+  padding: 0 0 20px 0;
+  border-bottom: 1px solid #dcdcdc;
+}
+.casual-fillter .product li a,
+.casual-fillter .dress-style ul li a {
+  color: #626262;
+  padding: 10px;
+}
+.casual-fillter .price,
+.casual-fillter .colors,
+.casual-fillter .size,
+.casual-fillter .dress-style {
+  padding: 20px 0;
+  border-bottom: 1px solid #dcdcdc;
+}
+.casual-fillter .price .MuiSlider-root {
+  color: black;
+  margin: 15px 0 0 0;
+  height: 6px;
+}
+.casual-fillter .colors ul,
+.casual-fillter .size ul,
+.casual-fillter .dress-style ul {
+  padding-top: 15px;
+}
+.casual-fillter .colors .color-items {
+  height: 30px;
+  width: 30px;
+  margin: 5px 0;
+  border: 1px solid #626266;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.casual-fillter .size ul li a {
+  color: #626262;
+  background-color: #f0f0f0;
+  padding: 8px 20px;
+  margin: 5px;
+  font-size: 14px;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+
+.apply-filter {
+  margin-top: 25px;
+  padding: 12px;
+  text-align: center;
+  width: 100%;
+  color: white;
+  border: none;
+  background-color: black;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+
+/*  */
+.casual-items {
+  padding: 0 0 0 15px;
+ 
+}
+.casual-title{
+  padding: 0 15px;
+  
+}
+.casual-items h4{
+font-size: 28px;
+}
+.casual-main .arrival-items {
+  margin: 15px 0;
+}
+.casual-option {
+  margin: 0 0px 0 10px;
+  color: #626262;
+}
+.casual-option select {
+  border: none;
+  font-size: 16px;
+  margin: 0 10px 0 2px;
+}
+.casual-items .vscsettings {
+  display: none;
+  font-size: 18px;
+}

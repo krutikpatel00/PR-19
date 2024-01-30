@@ -1,0 +1,40 @@
+.coustomrs {
+  padding: 80px 0;
+  overflow: hidden !important;
+}
+.coustomrs-tltle {
+  padding: 0 0 30px 0;
+}
+.coustomrs-tltle h2 {
+  font-size: 50px;
+  font-weight: 800;
+}
+.coustomrs-icon .faarrowleft,
+.coustomrs-icon .faarrowright {
+  font-size: 30px;
+  margin: 0 0 0 10px;
+}
+.coustomrs-items {
+  padding: 20px 30px;
+  border: 1px solid #dcdcdc;
+  border-radius: 15px;
+}
+.coustomrs-items h4{
+      font-size: 18px ;
+      padding:  10px 0;
+}
+.coustomrs-items p{
+      font-size: 16px;
+      text-align: justify;
+}
+.coustomrs-items .fastar {
+  font-size: 20px;
+  color: #ffc633;
+}
+.coustomrs-items .facheckcircle {
+  color: #01ab31;
+  margin: 0 0 0 5px;
+}
+.coustomrs .slick-slide {
+  padding: 0 12px;
+}

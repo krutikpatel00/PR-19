@@ -1,0 +1,44 @@
+.dress-style-inner {
+  background-color: #f0f0f0;
+  padding: 40px 100px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+.dress-style-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.dress-style-title h2 {
+  font-size: 50px;
+  font-weight: 800;
+}
+.dress-iteme {
+  margin: 10px;
+  background-color: white;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  position: relative;
+  height: 230px;
+}
+.dress-iteme img {
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+.dress-iteme h4 {
+  position: absolute;
+  top: 35px;
+  left: 25px;
+  font-size: 25px;
+}
