@@ -1,0 +1,60 @@
+.selling {
+  padding: 60px 0;
+}
+.selling-title {
+  padding-bottom: 30px;
+}
+.selling-title h2 {
+  color: black;
+  font-size: 50px;
+  font-weight: 800;
+  text-align: center;
+}
+.selling-items {
+  padding: 0 10px;
+}
+.selling-items img {
+  object-fit: contain;
+  object-position: center;
+  padding: 35px;
+  border: 1px solid black;
+
+  height: 300px;
+  border-radius: 15px;
+}
+.selling-items h4 a {
+  color: black;
+  text-transform: capitalize;
+  font-size: 17px;
+  padding: 10px 0;
+}
+.selling-items h4 a:hover {
+  color: rgb(50, 50, 50);
+}
+.selling-items .fastar {
+  color: #ffc633;
+  font-size: 18px;
+}
+.selling-items .faregstar {
+  font-size: 18px;
+}
+.selling-items .rating {
+  margin: 0 0 0 5px;
+}
+.selling-items h3 {
+  padding: 10px 0 0 0;
+}
+.selling .view-all {
+  text-align: center;
+  margin-top: 30px;
+}
+.selling .view-all a {
+  color: black;
+  padding: 12px 65px;
+  border: 1px solid black;
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
